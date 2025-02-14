@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,7 +17,7 @@
 <body>
     <header>
         <h1>Jayanth Narala</h1>
-        <p>Computer Science Graduate | IoT Enthusiast | Problem Solver</p>
+        <p>Computer Science Graduate | IoT Enthusiast | Easy learner</p>
     </header>
     <nav>
         <a href="#about">About Me</a>
@@ -91,7 +91,7 @@
         <p><strong>Linked in link:</strong> https://www.linkedin.com/in/jayanth-narala-51285415a/</p>
     </section>
     <footer>
-        <p>&copy; 2023 Jayanth Narala. Powered by Enhancv.</p>
+        <p>&copy; 2025 Jayanth Narala</p>
     </footer>
 </body>
 </html>
