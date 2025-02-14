@@ -88,6 +88,7 @@
         <h2>Contact</h2>
         <p><strong>Email:</strong> jayanthnarala91@gmail.com</p>
         <p><strong>Location:</strong> Milwaukee, USA</p>
+        <p><strong>Linked in link:</strong> https://www.linkedin.com/in/jayanth-narala-51285415a/</p>
     </section>
     <footer>
         <p>&copy; 2023 Jayanth Narala. Powered by Enhancv.</p>
